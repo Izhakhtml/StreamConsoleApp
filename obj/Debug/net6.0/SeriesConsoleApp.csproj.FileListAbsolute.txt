@@ -1,0 +1,15 @@
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\bin\Debug\net6.0\SeriesConsoleApp.exe
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\bin\Debug\net6.0\SeriesConsoleApp.deps.json
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\bin\Debug\net6.0\SeriesConsoleApp.runtimeconfig.json
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\bin\Debug\net6.0\SeriesConsoleApp.dll
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\bin\Debug\net6.0\ref\SeriesConsoleApp.dll
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\bin\Debug\net6.0\SeriesConsoleApp.pdb
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\obj\Debug\net6.0\SeriesConsoleApp.csproj.AssemblyReference.cache
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\obj\Debug\net6.0\SeriesConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\obj\Debug\net6.0\SeriesConsoleApp.AssemblyInfoInputs.cache
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\obj\Debug\net6.0\SeriesConsoleApp.AssemblyInfo.cs
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\obj\Debug\net6.0\SeriesConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\obj\Debug\net6.0\SeriesConsoleApp.dll
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\obj\Debug\net6.0\ref\SeriesConsoleApp.dll
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\obj\Debug\net6.0\SeriesConsoleApp.pdb
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\SeriesConsoleApp\obj\Debug\net6.0\SeriesConsoleApp.genruntimeconfig.cache
